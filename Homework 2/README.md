@@ -6,6 +6,7 @@ This repository contains homework 2 completed for the Python 1 Certificate cours
 
 Description:
 This program prints your name 100 times.
+
 ![alt text](image.png)
 
 ## Code Snippet 2
@@ -18,6 +19,7 @@ This program uses a for loop to print the numbers 100, 98, 96, ..., 4, 2.
 
 Description:
 This program prints the sequence "AAAAAAAAAABBBBBBBCDCDCDCDEFFFFFFG" using exactly four for loops.
+
 ![alt text](image-2.png)
 
 ## Code Snippet 4
