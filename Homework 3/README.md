@@ -30,18 +30,21 @@ Calculate the future hour based on current hour and hours ahead input.
 
 Description:
 Last digit of 2 raised to a power.
+
 ![alt text](image-4.png)
 
 ## Code Snippet 5.B
 
 Description:
 Last two digits of 2 raised to a power.
+
 ![alt text](image-5.png)
 
 ## Code Snippet 5.C
 
 Description:
 Last specified digits of 2 raised to a power.
+
 ![alt text](image-6.png)
 
 ## Code Snippet 6
@@ -54,6 +57,7 @@ Convert weight in kilograms to pounds rounded to the nearest tenth.
 
 Description:
 Compute sine, cosine, and tangent of a user-input number.
+
 ![alt text](image-8.png)
 
 ## Code Snippet 8
